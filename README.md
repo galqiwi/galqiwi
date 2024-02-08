@@ -4,6 +4,7 @@ Hi! My name is Vladimir Malinovkii, you can contact me using telegram [@galqiwi]
 - [bunch of small scripts](https://github.com/galqiwi/vk-clones) i used to mess with vk api for my [article on habr.com](https://habr.com/ru/post/449656/).
 
 My open source contributions:
+- [Pytorch](https://github.com/pytorch/pytorch/commits?author=galqiwi)
 - [YTsaurus](https://github.com/ytsaurus/ytsaurus/commits?author=galqiwi),
 - [Python logging cookbook](https://github.com/python/cpython/commits?author=galqiwi),
 - [Pytorch tutorials](https://github.com/pytorch/tutorials/commits?author=galqiwi).
